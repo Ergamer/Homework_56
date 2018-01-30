@@ -1,0 +1,18 @@
+.OrderTable{
+    width: 50%;
+    background: blue;
+    margin: 0 auto;
+}
+.Current{
+    margin-bottom: 20px;
+}
+span{
+    margin-right: 20px;
+}
+button{
+    margin-bottom: 10px;
+    margin-right: 20px;
+    width: 70px;
+    height: 30px;
+    background: #7f3608;
+}
